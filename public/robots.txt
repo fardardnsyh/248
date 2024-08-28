@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/contact
+
+Sitemap: https://kaijeng-nextportfolio.vercel.app/sitemap.xml
